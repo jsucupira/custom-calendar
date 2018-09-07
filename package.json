@@ -89,6 +89,7 @@
     "core-js": "^2.5.1",
     "create-plunker": "^1.4.0",
     "css-loader": "^0.28.9",
+    "ejs": "^2.6.1",
     "ejs-compiled-loader": "^1.1.0",
     "file-loader": "^1.1.5",
     "font-awesome": "^4.7.0",
